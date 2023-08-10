@@ -1,0 +1,16 @@
+case 3: break;
+ 
+	case 4:id++; break;
+	case 5:id++; break;
+	case 6:id++; break;
+	case 7:id -= 3; break;
+ 
+	case 8:id++; break;
+	case 9:id++; break;
+	case 10:id++; break;
+	case 11:id -= 3; break;
+ 
+	case 12:id++; break;
+	case 13:id--; break;
+ 
+	case 14:id++; break;
